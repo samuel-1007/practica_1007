@@ -11,3 +11,5 @@ comandos de git
 10-git remote add origin https://github.com/samuel-1007/practica_1007.git // seleccionar el repositorio
 11-git commit -m "Primera version" // crear los commits
 12-git clone https://github.com/samuel-1007/practica_1007.git// subir odescargar desde gitgub
+
+segunda version git hub
